@@ -100,15 +100,3 @@ kubectl get svc
 ```bash
 pytest tests/ -v
 ```
-
-## Notes for Submission
-
-Add your own screenshots in the `screenshots/` folder after running:
-
-- MLflow experiments page
-- API Swagger UI
-- Docker build and run command output
-- GitHub Actions workflow success
-- Kubernetes pods/services
-- Prometheus/Grafana dashboard or API metrics output
-
