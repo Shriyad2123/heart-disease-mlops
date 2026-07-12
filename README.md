@@ -28,7 +28,6 @@ MLOps_Assignment_01_Ready_Submit/
 ├── notebooks/              # EDA and training notebook
 ├── src/                    # training, preprocessing and data scripts
 ├── tests/                  # unit tests
-├── report/                 # final report
 ├── .github/workflows/      # CI pipeline
 ├── Dockerfile
 ├── requirements.txt
